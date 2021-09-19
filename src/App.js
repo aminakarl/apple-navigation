@@ -48,7 +48,9 @@ export default function App() {
 	useEffect(() => {
 		updateUnderline();
 		updateLocalTime();
+	}, []);
 
+	useEffect(() => {
 		const handleWindowResize = debounce(() => {
 			updateUnderline();
 		}, 500);
@@ -57,7 +59,7 @@ export default function App() {
 		return () => {
 			window.removeEventListener("resize", handleWindowResize);
 		};
-	}, []);
+	});
 
 	useEffect(() => {
 		updateLocalTime();
