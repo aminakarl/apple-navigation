@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.96f1c6b9.chunk.css",
-    "main.js": "/static/js/main.7050804a.chunk.js",
-    "main.js.map": "/static/js/main.7050804a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2e91e185.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2e91e185.js.map",
-    "static/js/2.da799a01.chunk.js": "/static/js/2.da799a01.chunk.js",
-    "static/js/2.da799a01.chunk.js.map": "/static/js/2.da799a01.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.96f1c6b9.chunk.css.map": "/static/css/main.96f1c6b9.chunk.css.map",
-    "static/js/2.da799a01.chunk.js.LICENSE.txt": "/static/js/2.da799a01.chunk.js.LICENSE.txt",
-    "static/media/loading.c7d9f081.gif": "/static/media/loading.c7d9f081.gif"
+    "main.css": "/apple-navigation/static/css/main.0017b8e5.chunk.css",
+    "main.js": "/apple-navigation/static/js/main.fda31b9e.chunk.js",
+    "main.js.map": "/apple-navigation/static/js/main.fda31b9e.chunk.js.map",
+    "runtime-main.js": "/apple-navigation/static/js/runtime-main.f8efd012.js",
+    "runtime-main.js.map": "/apple-navigation/static/js/runtime-main.f8efd012.js.map",
+    "static/js/2.e195067a.chunk.js": "/apple-navigation/static/js/2.e195067a.chunk.js",
+    "static/js/2.e195067a.chunk.js.map": "/apple-navigation/static/js/2.e195067a.chunk.js.map",
+    "index.html": "/apple-navigation/index.html",
+    "static/css/main.0017b8e5.chunk.css.map": "/apple-navigation/static/css/main.0017b8e5.chunk.css.map",
+    "static/js/2.e195067a.chunk.js.LICENSE.txt": "/apple-navigation/static/js/2.e195067a.chunk.js.LICENSE.txt",
+    "static/media/loading.c7d9f081.gif": "/apple-navigation/static/media/loading.c7d9f081.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e91e185.js",
-    "static/js/2.da799a01.chunk.js",
-    "static/css/main.96f1c6b9.chunk.css",
-    "static/js/main.7050804a.chunk.js"
+    "static/js/runtime-main.f8efd012.js",
+    "static/js/2.e195067a.chunk.js",
+    "static/css/main.0017b8e5.chunk.css",
+    "static/js/main.fda31b9e.chunk.js"
   ]
 }
